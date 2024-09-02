@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Youtube;
+  src: url("../assets/YouTubeSansRegular.otf");
+}
+
+
+
+.youtube-grid{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.topbar-title{
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: rgb(143, 141, 141);
+  font-family: Youtube;
+}
