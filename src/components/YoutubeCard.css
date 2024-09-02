@@ -1,0 +1,46 @@
+.youtube-card {
+    width: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    /* background-color: #333; */
+    color: #fff;
+    font-family: Arial, sans-serif;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
+    margin-bottom: 20px;
+}
+
+.thumbnail {
+    width: 100%;
+    display: block;
+}
+
+.content {
+    padding: 15px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.channel-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.channel-picture {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.views {
+    color: #aaa;
+}
